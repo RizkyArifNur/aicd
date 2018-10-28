@@ -6,4 +6,6 @@ jangan mengeksekusinya dengan "./" dan pastikan bahwa
 di direktori /var/www/html tidak ada folder bernama 
 "DesaKu" dan Versi beta ini baru hanya di jalankan di
 localhost
+
+hai
 -------------------------End-------------------------
